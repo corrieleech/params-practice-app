@@ -1,0 +1,6 @@
+POST http://localhost:3000/phrases/enter_body_param/
+Content-Type: application/json
+
+{
+  "phrase": "Hello world, this is my phrase!"
+}
